@@ -66,7 +66,7 @@ Distribution des releases des outils internes ALPTIS.
 
 ## purge-fs
 
-> Gestion de purge et d'archivage de fichiers sur partages éseau  Windows et CLI.
+> Gestion de purge et d'archivage de fichiers sur partages réseau — interface graphique Windows et CLI.
 
 **Fonctionnalités :**
 - Interface graphique PyQt6 (onglets Scan, Analyse, Purge, Suivi)
