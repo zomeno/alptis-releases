@@ -15,7 +15,7 @@ Distribution des releases des outils internes ALPTIS.
 - Interface web locale embarquée dans un installeur Windows (Electron)
 - Push git automatique des modifications (toutes les N minutes ou via bouton dédié)
 
-**Dernière version :** [v1.0.3](https://github.com/zomeno/alptis-releases/releases/tag/plan-batch-v1.0.3)
+**Dernière version :** [v1.0.3](https://github.com/zomeno/alptis-releases/releases/tag/v1.0.3)
 
 ---
 
@@ -36,5 +36,5 @@ Distribution des releases des outils internes ALPTIS.
 
 | Outil | Dernière version | Lien |
 |-------|------------------|------|
-| plan-batch | v1.0.3 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/plan-batch-v1.0.3) |
+| plan-batch | v1.0.3 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/v1.0.3) |
 | param-compare | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/param-compare-v1.0.0) |
