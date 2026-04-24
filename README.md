@@ -47,6 +47,21 @@ Distribution des releases des outils internes ALPTIS.
 
 ---
 
+## CLEVA Anonymisation
+
+> Anonymisation RGPD de la base de données CLEVA — interface Streamlit locale, sans outil Oracle externe.
+
+**Fonctionnalités :**
+- Remplacement des données personnelles (noms, prénoms, adresses, IBAN…) par des valeurs fictives
+- Dictionnaires de substitution basés sur des données INSEE réelles (218 983 noms, prénoms, adresses)
+- Lanceur graphique Windows (Tkinter) avec indicateur d'état Start/Stop
+- Interface Streamlit accessible sur http://localhost:8501
+- Connexion Oracle sécurisée (mot de passe jamais stocké sur disque)
+
+**Dernière version :** [v1.0.0](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0)
+
+---
+
 ## Tableau de bord
 
 | Outil | Dernière version | Lien |
@@ -54,3 +69,4 @@ Distribution des releases des outils internes ALPTIS.
 | plan-batch | v1.0.3 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/v1.0.3) |
 | param-compare | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/param-compare-v1.0.0) |
 | find-my-log | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.0.0) |
+| cleva-anonymisation | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0) |
