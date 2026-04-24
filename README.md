@@ -63,19 +63,20 @@ Distribution des releases des outils internes ALPTIS.
 ---
 
 
+
 ## purge-fs
 
-> Gestion de purge et d'archivage de fichiers sur partages rÃ©seau â€” interface graphique Windows et CLI.
+> Gestion de purge et d'archivage de fichiers sur partages éseau  Windows et CLI.
 
-**FonctionnalitÃ©s :**
+**Fonctionnalités :**
 - Interface graphique PyQt6 (onglets Scan, Analyse, Purge, Suivi)
-- Scan multithreadÃ© des partages rÃ©seau avec pause/stop
-- Analyse des rÃ©pertoires et suggestion de rÃ¨gles de purge
-- Purge et archivage des fichiers selon rÃ¨gles de rÃ©tention configurables
-- Support CLI complet (purge-fs.py scan / analyse / purge)
+- Scan multithreadé des partages réseau avec pause/stop
+- Analyse des répertoires et suggestion de règles de purge
+- Purge et archivage des fichiers selon règles de rétention configurables
+- Support CLI complet (`purge-fs.py scan / analyse / purge`)
 - Distribution portable (PyInstaller), aucune installation requise
 
-**DerniÃ¨re version :**
+**Dernière version :**
 [v1.0.0](https://github.com/zomeno/alptis-releases/releases/tag/purge-fs-v1.0.0)
 
 ---
