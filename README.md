@@ -62,6 +62,23 @@ Distribution des releases des outils internes ALPTIS.
 
 ---
 
+
+## purge-fs
+
+> Gestion de purge et d'archivage de fichiers sur partages rÃ©seau â€” interface graphique Windows et CLI.
+
+**FonctionnalitÃ©s :**
+- Interface graphique PyQt6 (onglets Scan, Analyse, Purge, Suivi)
+- Scan multithreadÃ© des partages rÃ©seau avec pause/stop
+- Analyse des rÃ©pertoires et suggestion de rÃ¨gles de purge
+- Purge et archivage des fichiers selon rÃ¨gles de rÃ©tention configurables
+- Support CLI complet (purge-fs.py scan / analyse / purge)
+- Distribution portable (PyInstaller), aucune installation requise
+
+**DerniÃ¨re version :**
+[v1.0.0](https://github.com/zomeno/alptis-releases/releases/tag/purge-fs-v1.0.0)
+
+---
 ## Tableau de bord
 
 | Outil | Dernière version | Lien |
@@ -69,4 +86,4 @@ Distribution des releases des outils internes ALPTIS.
 | plan-batch | v1.0.3 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/v1.0.3) |
 | param-compare | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/param-compare-v1.0.0) |
 | find-my-log | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.0.0) |
-| cleva-anonymisation | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0) |
+| cleva-anonymisation | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0) || purge-fs | v1.0.0 | [TÃ©lÃ©charger](https://github.com/zomeno/alptis-releases/releases/tag/purge-fs-v1.0.0) |
