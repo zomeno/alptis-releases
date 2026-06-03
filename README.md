@@ -9,7 +9,7 @@ Distribution des releases des outils internes ALPTIS.
 |-------|------------------|------|
 | plan-batch | v1.0.3 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/v1.0.3) |
 | param-compare | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/param-compare-v1.0.0) |
-| find-my-log | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.0.0) |
+| find-my-log | v1.1.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.1.0) |
 | cleva-anonymisation | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0) |
 | purge-fs | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/purge-fs-v1.0.0) |
 
@@ -54,7 +54,7 @@ Distribution des releases des outils internes ALPTIS.
 - Interface WPF native Windows, aucun runtime requis (PowerShell 5.1+)
 
 **Dernière version :**
-[v1.0.0](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.0.0)
+[v1.1.0](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.1.0)
 
 ---
 ## CLEVA Anonymisation
