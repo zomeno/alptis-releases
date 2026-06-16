@@ -11,7 +11,8 @@ Distribution des releases des outils internes ALPTIS.
 | param-compare | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/param-compare-v1.0.0) |
 | find-my-log | v1.1.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.1.0) |
 | cleva-anonymisation | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0) |
-| purge-fs | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/purge-fs-v1.0.0) |
+
+| tnr-batch-copie-fichier | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/tnr-batch-copie-fichier-v1.0.0) |
 
 ---
 ## Plan Batch
@@ -86,3 +87,19 @@ Distribution des releases des outils internes ALPTIS.
 
 **Dernière version :**
 [v1.0.0](https://github.com/zomeno/alptis-releases/releases/tag/purge-fs-v1.0.0)
+
+---
+
+## TNR Batch Copie Fichier
+
+> Copie contrôlée de fichiers batch entre environnements CLEVA via jeux de règles INI.
+
+**Fonctionnalités :**
+- Interface WPF pour créer, éditer et exécuter des jeux de règles
+- Sélection des N fichiers les plus récents (masque + extension)
+- Gestion multi-jeux de règles avec commentaires
+- Test des répertoires source/cible avant copie
+- Démarrage simplifié via lanceur Windows (lancement-copie.vbs)
+
+**Dernière version :**
+[tnr-batch-copie-fichier-v1.0.0](https://github.com/zomeno/alptis-releases/releases/tag/tnr-batch-copie-fichier-v1.0.0)
