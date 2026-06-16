@@ -7,7 +7,7 @@ Distribution des releases des outils internes ALPTIS.
 
 | Outil | Dernière version | Lien |
 |-------|------------------|------|
-| plan-batch | v1.0.3 | [1.0.4](https://github.com/zomeno/alptis-releases/releases/tag/v1.0.4) |
+| plan-batch | v1.0.4 | [1.0.4](https://github.com/zomeno/alptis-releases/releases/tag/v1.0.4) |
 | param-compare | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/param-compare-v1.0.0) |
 | find-my-log | v1.1.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.1.0) |
 | cleva-anonymisation | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0) |
