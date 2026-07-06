@@ -9,7 +9,7 @@ Distribution des releases des outils internes ALPTIS.
 |-------|------------------|------|
 | plan-batch | v1.0.4 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/v1.0.4) |
 | param-compare | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/param-compare-v1.0.0) |
-| find-my-log | v1.1.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.1.0) |
+| find-my-log | v1.2.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.2.0) |
 | cleva-anonymisation | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0) |
 | tnr-batch-copie-fichier | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/tnr-batch-copie-fichier-v1.0.0) |
 
@@ -47,14 +47,15 @@ Distribution des releases des outils internes ALPTIS.
 > Navigateur de logs CLEVA K8s — outil graphique Windows sans dépendances.
 
 **Fonctionnalités :**
-- Identification des pods actifs à une date/heure donnée
+- Identification des pods actifs sur une période (Du / Au facultatif)
 - Navigation dans les fichiers de log (courants .log et archives .gz)
 - Recherche dans le contenu (F3 / Shift+F3)
+- Recherche plein fichier et multi-pods en streaming, résultats cliquables façon Notepad++
 - Décompression .gz à la volée, ouverture dans Notepad / Explorateur
 - Interface WPF native Windows, aucun runtime requis (PowerShell 5.1+)
 
 **Dernière version :**
-[v1.1.0](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.1.0)
+[v1.2.0](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.2.0)
 
 ---
 ## CLEVA Anonymisation
