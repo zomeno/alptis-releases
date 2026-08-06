@@ -10,6 +10,7 @@ Distribution des releases des outils internes ALPTIS.
 | plan-batch | v1.0.4 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/v1.0.4) |
 | param-compare | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/param-compare-v1.0.0) |
 | find-my-log | v1.2.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.2.0) |
+| analyse-log-api | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/analyse-log-api-v1.0.0) |
 | cleva-anonymisation | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0) |
 | tnr-batch-copie-fichier | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/tnr-batch-copie-fichier-v1.0.0) |
 
@@ -90,6 +91,20 @@ Distribution des releases des outils internes ALPTIS.
 
 ---
 
+## Analyse Log API
+
+> Analyse des logs d'accès API CLEVA pour mesurer les usages par utilisateur, endpoint et période.
+
+**Fonctionnalités :**
+- Analyse des fichiers cleva_access* (.log, .gz, .zip)
+- Agrégation par utilisateur / endpoint / méthode
+- Interface GUI (Tkinter) avec filtres, tri et export CSV
+- Mode script batch pour traitement automatisé
+
+**Dernière version :**
+[analyse-log-api-v1.0.0](https://github.com/zomeno/alptis-releases/releases/tag/analyse-log-api-v1.0.0)
+
+---
 ## TNR Batch Copie Fichier
 
 > Copie contrôlée de fichiers batch entre environnements CLEVA via jeux de règles INI.
