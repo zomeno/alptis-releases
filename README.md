@@ -11,7 +11,7 @@ Distribution des releases des outils internes ALPTIS.
 | param-compare | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/param-compare-v1.0.0) |
 | find-my-log | v1.2.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/find-my-log-v1.2.0) |
 | analyse-log-api | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/analyse-log-api-v1.0.0) |
-| cleva-anonymisation | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0) |
+| cleva-anonymisation | v1.1.0 | [v1.1.0](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.1.0) |
 | tnr-batch-copie-fichier | v1.0.0 | [Télécharger](https://github.com/zomeno/alptis-releases/releases/tag/tnr-batch-copie-fichier-v1.0.0) |
 
 ---
