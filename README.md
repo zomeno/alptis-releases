@@ -71,7 +71,7 @@ Distribution des releases des outils internes ALPTIS.
 - Connexion Oracle sécurisée (mot de passe jamais stocké sur disque)
 
 **Dernière version :**
-[v1.0.0](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.0.0)
+[v1.1.0](https://github.com/zomeno/alptis-releases/releases/tag/cleva-anonymisation-v1.1.0)
 
 ---
 ## purge-fs
